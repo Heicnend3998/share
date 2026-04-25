@@ -4,3 +4,10 @@ hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?inse
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?insecure=1&sni=hy2-usa.onetaplink.app&alpn=&fp=&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&mport=&os=#qilan.de|USNode 
 hysteria2://9d9519a0-7df0-42a4-a765-29512ab65f5c@151.241.130.90:55000?insecure=1&sni=www.bing.com&alpn=&fp=&mport=&os=#qilan.de|JPNode 
 hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@kr-hy2.onetaplink.app:443?insecure=0&sni=hy2-kr.onetaplink.app&alpn=&fp=&obfs=salamander&obfs-password=b51RzRb2VRsEsFEj&mport=&os=#qilan.de|KRNode|NATCORP 
+hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&alpn=&fp=&mport=&os=#youneed.win 
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&alpn=&fp=&mport=&os=#youneed.win 
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world&alpn=&fp=&mport=&os=#youneed.win 
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-017.fastervpn.world:443?insecure=1&sni=vpn-us-017.fastervpn.world&alpn=&fp=&mport=&os=#youneed.win 
+hysteria2://3286b74d-a633-401f-8e22-6e8e61c5f1d9@45.192.195.52:5555?insecure=1&sni=&alpn=&fp=&mport=&os=#youneed.win 
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-020.fastervpn.world:443?insecure=1&sni=vpn-us-020.fastervpn.world&alpn=&fp=&mport=&os=#youneed.win 
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-018.fastervpn.world:443?insecure=1&sni=vpn-us-018.fastervpn.world&alpn=&fp=&mport=&os=#youneed.win 
